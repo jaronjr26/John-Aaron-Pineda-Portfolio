@@ -330,7 +330,6 @@
 
 .education-text{
     color: aqua;
-    margin-bottom: 50px;
 }
 
 .education-content{
@@ -419,7 +418,6 @@
 .website-content{
     display: flex;
     overflow: hidden;
-    position: relative;
     width: 1000px;
     position: relative;
 }
